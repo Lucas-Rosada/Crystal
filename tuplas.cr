@@ -1,0 +1,2 @@
+Everton = {x: 10, y: 20}
+puts Everton[:x] # Saida 10
